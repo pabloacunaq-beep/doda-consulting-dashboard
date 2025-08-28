@@ -11,7 +11,7 @@ Segmentación de contactos
 Métricas del pipeline MLOps
 
 ## Autor
-Pipeline MLOps para Doda Consulting
+Pablo Acuña para Doda Consulting
 
 ## Deployment
 ```bash
